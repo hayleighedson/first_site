@@ -33,6 +33,10 @@ body {
 	background-color: rgba(161,214,247,1);
 }
 
+form {
+	text-align: center;
+}
+
 
 #visit {
 	background-color: rgba(242, 63, 188, 0.75);
